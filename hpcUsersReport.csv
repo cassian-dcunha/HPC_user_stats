@@ -1,0 +1,373 @@
+Name,Panther ID,Employee UID,Student UID,FIU Roles,HPC Staff,HPC Student,Completed Program,Completion Term
+Chooda Khanal,1018167,ckhanal,ckhan001,SF,No,Yes,,
+Seckin Gokaltun,1019977,gokaltun,sgoka001,AE,Yes,No,GRAD,GRDEG,1085
+Bernard Gerstman,1041053,gerstman,bgers001,EI,Yes,No,,
+Derrick Ramirez,1048804,ramirezd,drami001,SE,Yes,No,,
+Cesar Levy,1054836,levyez,clevy001,EI,Yes,No,,
+Ali Karayalcin,1057431,karayalc,akara006,EI,Yes,No,,
+Misak Sargsian,1090778,sargsian,msarg001,EI,Yes,No,,
+Keqi Zhang,1096900,zhangk,kzhan002,EI,Yes,No,,
+Daniel Gann,1102106,gannd,dgann002,SE,Yes,No,GRAD,GRMAS,1031
+Misael Fernandez,1106052,mifern,mfern083,AF,No,Yes,UGRD,UGAS,1131
+Jose Prendes,1191235,jose,jpren003,E,Yes,No,,
+Ada Diaz,1192005,ada,diaza001,F,Yes,No,,
+Anu Chirinos,1220614,anu,achir003,AE,Yes,No,UGRD,UDBBU,1088
+Yiding Cao,1222127,caoy,ycao003,EI,Yes,No,,
+Frank Urban,1223558,urban,furba002,EI,Yes,No,,
+Michael Kirgan,1224656,michaelk,mkirg001,E,Yes,No,,
+Eric Johnson,1234625,esj,ejohn007,EI,Yes,No,,
+Hector Fuentes,1248964,fuentes,hfuen002,EI,Yes,No,,
+David Chatfield,1252227,chatfiel,dchat002,EI,Yes,No,,
+Joao Ribeiro,1252372,jmribeir,jribe003,SE,No,Yes,UGRD,UGAS,1115
+Xuewen Wang,1253280,sherwin,xwang012,EI,Yes,No,,
+Tomas Pribanic,1256603,tpribani,tprib001,AFR,Yes,No,GRAD,GRMEG,1088
+Prem Chapagain,1308303,chapagap,pchap002,EIZ,Yes,No,GRAD,GRDAS,1055
+Maria Marquez,1309732,memarque,mmarq002,SEI,No,Yes,UGRD,UGAS,1141
+Yong Cai,1318355,cai,ycai005,EI,Yes,No,,
+Cassian D_Cunha,1324709,cdcunha,cdcun001,AE,Yes,No,GRAD,GRMAS|GRAD,GRAS,1038|1118
+Juan Quintanilla,1334407,jquin014,jquin054,AE,Yes,No,UGRD,UDBEG,1078
+Camilo Valdes,1338510,cavaldes,cvalde03,SF,No,Yes,UGRD,UDBAS|UGRD,UDBEG,1081|1081
+Yadira Reynaldo,1369289,yreynald,yreyn001,SEI,No,Yes,,
+Rostislav Hrubiak,1373612,rhrubyak,rhrub001,AF,No,Yes,UGRD,UDBEG|GRAD,GREG,1071|1125
+Zheng Cui,1374328,cuiz,zcui001,AE,Yes,No,GRAD,GRMAS|GRAD,GREG,1015|1138
+Armando Pardillo,1388893,apardill,apard001,AF,No,Yes,UGRD,UDBBU|UGRD,UDBAS|GRAD,GRAS,1035|1091|1158
+Ange Marie Fievre,1399560,anfievre,pfiev001,AF,No,Yes,GRAD,GRMEG|GRAD,GREG,1061|1151
+Rajamani Narayanan,1400230,narayanr,rnara003,EI,Yes,No,,
+Michael Sukop,1400599,sukopm,msuko001,EI,Yes,No,,
+Ibrahim Tansel,1401094,tanseli,itans001,EI,Yes,No,,
+Giri Narasimhan,1401109,giri,gnara001,EI,Yes,No,,
+James Grace,1413093,jgrace,jgrac002,AE,Yes,No,UGRD,UDBAS|GRAD,GRAS,1105|1131
+Suchismita Mishra,1473505,mishras,smish001,EI,Yes,No,,
+George Dulikravich,1478786,dulikrav,gduli001,EI,Yes,No,,
+Alexander Mebel,1478869,mebela,amebe001,EI,Yes,Yes,,
+Irina Rabinovich,1500312,rabinovi,irdr,E,Yes,No,,
+Farnaz Kachelo,1517150,,fhabi001,S,No,Yes,,
+Ruben Veiga,1520371,rveiga,rveig001,SF,No,Yes,UGRD,UGEG,1125
+Jose Matteo,1647042,jomatteo,jmatt005,SF,No,Yes,UGRD,UDBEG|GRAD,GREG,1101|1151
+Vadim Kislov,1660673,vkislov,vkisl001,F,Yes,No,,
+Vanessa Capera,1688186,vcapera,vcape001,SF,No,Yes,UGRD,UGAS,1118
+Barry Rosen,1733063,brosen,brose005,EI,Yes,No,,
+Adam Kapela,1786155,akapela,akape001,F,Yes,No,,
+Alan McKenzie,1880350,amckenzi,amcke002,SF,No,Yes,UGRD,UGAS,1125
+Emmanuel Dacosta-Calheiros,1886429,edacosta,edaco001,AF,No,Yes,,
+Ping Zhu,1940339,zhup,pzhu005,EI,Yes,No,,
+Mario Morera,2072842,mmorera,mmore020,AE,Yes,No,,
+Denise Kolbl Covington,2085703,dkcoving,dkolb001,SE,Yes,No,,
+Dwayne McDaniel,2128373,mcdaniel,dmcda003,EI,Yes,No,,
+Yonatan Rotenberg,2234755,yrotenbe,yrote001,AF,No,Yes,UGRD,UGEG,1148
+Vadym Drozd,2243597,drozdv,vdroz001,E,Yes,No,,
+Julio Yanes,2245941,jayanes,jyane004,SF,No,Yes,UGRD,UGAS,1111
+Arindam Gan Chowdhury,2254757,chowdhur,aganc002,EI,Yes,No,,
+Frederic Nau,2340265,,fnau001,A,No,Yes,UGRD,UGAS,1138
+Karina Falcone,2365902,kfalcone,kfalc003,SER,No,Yes,UGRD,UGAS,1141
+Jorge Rodriguez,2427545,jrodrig,jrodr04,EI,Yes,No,,
+Kai Huang,2526055,khuang,khuan003,EI,No,No,,
+Pradeep Shinde,2543386,pshinde,pshin001,SE,No,Yes,GRAD,GRMEG,1095
+Paolo Benigni,2576240,pbenigni,pbeni001,SE,No,Yes,UGRD,UGAS,1138
+Jason Liu,2576740,liux,jliu008,EI,Yes,No,,
+Ekaterina Gumnova,2598224,,egumn001,S,No,Yes,,
+Angelo Andres,2605392,,aandr011,S,No,Yes,,
+Gianni Jimenez,2608150,grjimene,gjime006,SF,No,Yes,UGRD,UGEG,1148
+Daniel Costaesa,2612488,dcostaes,dcost003,AF,No,Yes,UGRD,UGEG,1155
+Anthony Llodra,2642500,allodra,allod001,AF,No,Yes,UGRD,UGAS,1151
+Kailey MacNamara,2642801,kmacnama,kmacn001,SE,No,Yes,UGRD,UGAS,1131
+Emily Schenk,2650042,eschenk,esche003,AF,Yes,No,GRAD,GRAS,1128
+Emmanuel Gonzalez,2653686,emgonz,egonz077,SF,No,Yes,UGRD,UGAS,1148
+Shayna Sandhaus,2657853,ssandhau,ssand008,SEI,No,Yes,UGRD,UGAS,1138
+Jingxuan Li,2671944,jli,jli003,AF,No,Yes,GRAD,GREG,1141
+Miguel Conde,2672608,,mcond005,S,No,Yes,,
+Ali Karbasi,2678472,akarbasi,akarb002,AE,No,Yes,GRAD,GREG,1125
+Ahmadreza Abbasi Bamaranchi,2739168,aabbasib,aabba003,SE,No,Yes,,
+Steven Lyons Jr,2835926,slyonsjr,slyon001,SE,No,Yes,UGRD,UGEG,1148
+Lazaro Herrera,2853150,laherrer,lherr012,AF,No,Yes,UGRD,UGEG,1151
+Nezih Pala,2900647,npala,npala005,EI,Yes,No,,
+Alejandro Hermida,2919033,ahermida,aherm002,AEI,No,Yes,UGRD,UGAS,1155
+Jose Chang,2932232,jrchang,jchan010,SF,No,Yes,UGRD,UGAS,1148
+Glenda Muguruza,2974926,,gmugu001,A,No,Yes,UGRD,UGAS,1141
+Catalina Hurwitz,2983179,cbeca,cbeca001,SEI,No,Yes,GRAD,GRBU,1118
+Alexander Landera,1355901,alandera,aland004,AF,Yes,Yes,UGRD,UDBAS|GRAD,GRAS,1071|1138
+Sakhrat Khizroev,1366233,khizroev,skhiz001,EI,Yes,No,,
+Sasha Philius,2101291,sphilius,sphil003,AF,No,Yes,UGRD,UGEG,1148
+Yuepeng Li,3011976,yuepli,yli0012,E,Yes,No,,
+Eric Jo,2927988,erjo,ejo001,AF,No,Yes,UGRD,UGEG,1145
+Heather Vazquez,2102197,hvazque,hvazq002,SEI,No,Yes,UGRD,UGAS,1128
+Daniel Belisario Lara,2802279,dbelisar,dbeli001,SE,No,Yes,UGRD,UGAS,1131
+Oleksandr Morozov,0103474,omorozov,omoro001,E,Yes,No,,
+Trang Pham Hoang,2348837,,tpham001,S,No,Yes,UGRD,UGAS,1135
+Luis Perez,3187490,lguperez,lpere01,AF,No,Yes,GRAD,GREG,1148
+Lucas Scott,1583123,lscott,lscot004,SF,No,Yes,UGRD,UGAS,1131
+Daniel Prieto,2920015,daprieto,dprie004,AF,No,Yes,UGRD,UGAS,1141
+Timothy Steckmann,3013904,tsteckma,tstec001,SF,No,Yes,,
+Krystine Pimentel,1716016,kpiment,kpime004,SF,No,Yes,UGRD,UGEG|GRAD,GREG,1131|1151
+Tereza Vokata,2993654,tvokata,tvoka001,AF,No,Yes,GRAD,GRAS,1151
+Asais Uzcategui,3282393,auzcateg,auzca002,SFR,No,Yes,,
+Natalie Baez,3241283,naebaez,nbaez003,SF,No,Yes,,
+Eric Bishop-Von Wettberg,3013213,ebishopv,ebish001,EI,Yes,No,,
+Hari Kishore Adluru,1397736,hadluru,hadlu001,AFI,No,Yes,GRAD,GRMEG|GRAD,GREG,1041|1158
+Jacqueline Duperrouzel,2961629,jduperro,jdupe002,SE,No,Yes,,
+Christopher Kerrutt,3206963,ckerrutt,ckerr001,AF,No,Yes,UGRD,UGEG,1141
+Raybel Almeida,3001890,raalme,ralme007,AF,No,Yes,UGRD,UGAS,1155
+Nelson Gonzalez,3325808,,ngonz040,A,No,Yes,UGRD,UGAS,1158
+Javier Carmona,3256384,jacarm,jcarm010,AF,No,Yes,UGRD,UGEG,1148
+Carlos Bravo,3320898,,cbrav005,A,No,Yes,UGRD,UGAS,1141
+Carlos Urbina,3342170,,curbi007,S,No,Yes,,
+Raul Villacob Jaraba,3344880,rvillaco,rvill028,SEI,No,Yes,UGRD,UGAS,1145
+Sergio Saucedo,2670787,,ssauc002,S,No,Yes,,
+Maximiliano Edrei,3222591,medrei,medre001,SE,No,Yes,UGRD,UGEG,1151
+Richard Lopez Gomez,3204517,rarlopez,rlope052,AF,No,Yes,UGRD,UGEG,1151
+Ariel Diaz,3255315,ardiaz,adiaz141,AF,No,Yes,UGRD,UGEG,1148
+Genesis Vasquez,2923440,gevasq,gvasq007,SF,No,Yes,UGRD,UGEG,1148
+Christopher Naranjo,2410292,,cnara004,S,No,Yes,,
+Icxe Vidal,3442171,,ivida002,A,No,Yes,UGRD,UGEG,1151
+Anthony Castellanos,3256386,antcaste,acast124,SE,Yes,Yes,UGRD,UGAS,1141
+Eduardo Castillo,3282474,edcastil,ecast040,AF,No,Yes,UGRD,UGEG,1158
+Sohail Reddy,3217850,sreddy,sredd001,SF,No,Yes,UGRD,UGEG|GRAD,GREG,1145|1155
+Sandeep Singh,3344653,sksingh,ssing023,AE,No,Yes,GRAD,GRPH,1151
+Cen Gao,3411387,cegao,cgao003,SE,No,Yes,,
+Maanasa Jayachandran,3521352,mjayacha,mjaya001,SE,No,Yes,,
+Michael Salerno,1354324,msalerno,msale009,AF,No,Yes,UGRD,UGAS|UGRD,UGEG,1148|1148
+Vy Trinh,3372642,vtrinh,vtrin001,AF,No,Yes,UGRD,UGAS,1148
+Janelle Nunez-Castilla,3329803,jnunezca,jnune033,SEIR,No,Yes,UGRD,UGAS,1138
+Siavash Rastkar,3457033,srastkar,srast002,SE,No,Yes,,
+Yexi Jiang,3395120,yejian,yjian004,AF,No,Yes,GRAD,GREG,1151
+Yonas Habtemichael,3395098,yhabtemi,yhabt001,SFI,Yes,Yes,GRAD,GREG,1158
+Alina Nazareth,3336528,anazare,anaza003,AF,No,Yes,GRAD,GRAS,1155
+Anthony Dick,0106166,adick,adick003,EI,Yes,No,,
+Abas Abdoli,3500354,aabdoli,aabdo004,AEI,No,Yes,GRAD,GREG,1148
+Tony Thomas,2665261,,tthom026,A,No,Yes,UGRD,UGAS,1145
+Melissa Baralt,0106436,mbaralt,mbara010,EI,No,Yes,,
+Charles Packianathan,0106443,cpackian,cpack001,E,Yes,No,,
+Johann Henao,1588084,,jhena005,S,No,Yes,,
+Wei Wang,0106576,weiwang1,wwang020,EI,Yes,No,,
+Javier Andrial,3578336,jandrial,jandr018,SE,No,Yes,,
+Raju Sinha,3372676,rsinha,rsinh001,SEI,No,Yes,,
+Franco Hernandez,3564495,,fhern030,S,No,Yes,,
+Mustafa Karabiyik,3553312,mkarabiy,mkara006,SE,No,Yes,,
+Steve Noel,3368011,snoel,snoel006,AF,No,Yes,UGRD,UGEG,1151
+Daniella Vargas,2737466,dvargas2,dvarg022,AF,No,Yes,UGRD,UGAS,1141
+Teresa Milan,3354050,tmilan,tmila002,AFI,No,Yes,UGRD,UGEG,1158
+Jorge Perez,3330077,jorgpere,jpere268,SE,No,Yes,,
+Artiom Tiurin,3615727,,atiur001,A,No,Yes,UGRD,UGEG,1155
+Oumaya Zlitni,1675632,ozlitni,ozlit001,SE,No,Yes,,
+Daniel Lopez,3367694,daanlope,dlope073,SE,No,Yes,,
+Sofia Espinosa,3619313,sespinos,sespi017,SE,No,Yes,UGRD,UGAS,1151
+Pedro Cordon,3282485,pcordon,pcord005,AF,No,Yes,UGRD,UGEG|GRAD,GREG,1148|1158
+Daniel Rodriguez,3328672,drodrigu36,drodr125,AF,No,Yes,UGRD,UGEG|GRAD,GREG,1145|1151
+Javier How,3291400,jhow,jhow001,AF,No,Yes,UGRD,UGAS,1151
+Deanna Moya,3582214,dmoya,dmoya003,SF,No,Yes,,
+Gretel Rodriguez,2752197,,grodr088,S,No,Yes,,
+Kevin Alzate,3315201,kalzate,kalza002,AE,No,Yes,UGRD,UGAS,1158
+Ynhi Truong,2728167,,ytruo001,A,No,Yes,,
+Frank Vincench,3224720,,fvinc004,S,No,Yes,,
+Robert Hertzbach,2676397,,rhert003,S,No,Yes,,
+Jose Acosta,3366993,jjaacost,jacos046,SE,No,Yes,UGRD,UGEG,1148
+Sean Iamartino,3501638,,siama001,S,No,Yes,,
+Monique Motta,2887282,mmotta,mmott002,AE,No,Yes,UGRD,UGAS,1158
+Jeevan Gc,3624438,jgc,jgc001,SEI,No,Yes,,
+Alfredo Zellek,3353819,azellek,azell003,AFR,No,Yes,UGRD,UGEG,1155
+Kiran Subedi,3634591,ksubedi,ksube001,AF,No,Yes,GRAD,GRAS,1158
+Iris Broce,3635222,ibroce,ibroc001,SFI,No,Yes,GRAD,NGFAI|GRAD,GRAS,1138|1141
+Puck Reeders,3646344,preeders,preed007,SE,No,Yes,,
+Min Chen,0107774,mchen2,mchen025,EI,Yes,No,,
+Shridat Jadoo,3558815,sjadoo,sjado003,AE,No,Yes,UGRD,UGAS,1158
+Emily Warschefsky,3659043,ewarsche,ewars001,SE,No,Yes,,
+Roberto Arciniegas,1385020,,rarci003,S,No,Yes,,
+Steven Arce,1230910,sarce,sarce004,SE,No,Yes,,
+Diego Colunge,3668975,,dcolu004,A,No,Yes,UGRD,UGEG|GRAD,GREG,1145|1158
+Hadi Fekrmandi,3670472,hfekrman,hfekr001,AEI,No,Yes,GRAD,GREG,1151
+Karthik Vasudeva,3676193,kvasudev,kvasu001,SE,No,Yes,GRAD,GREG,1158
+Arvind Merwaday,3676201,amerwada,amerw001,SE,No,Yes,GRAD,GREG,1151
+Christopher Harrilal,3436947,cpharril,charr073,AF,No,Yes,UGRD,UGAS,1151
+Javiera Hernandez,2213365,jaihern,jhern385,SEI,No,Yes,GRAD,GRAS,1145
+Tatiana Barriga,3382531,tbarriga,tbarr034,AF,No,Yes,UGRD,UGAS,1158
+Evelio Quiros,0108296,evquir,equir007,E,Yes,No,,
+Vinhhuy Nguyen,3767676,vlnguyen,vnguy011,SEI,No,Yes,GRAD,GRBU,1125
+Esmaiil Ghasemisahebi,3775371,eghasemi,eghas001,SE,No,Yes,,
+Qiang Kang,0108708,qkang,qkang001,EI,Yes,No,,
+mpdept2,OTH0000908,mpdept2,,1,No,No,,
+Long Phan,3850360,ltphan,lphan005,SE,No,Yes,UGRD,UGEG|GRAD,GREG,1131|1158
+Marco Filipovic,1816161,,mfili004,A,No,Yes,UGRD,UGAS,1151
+Michael Machin,2584643,,mmach059,A,No,Yes,UGRD,UGEG,1158
+Rocio Alves Milho Aguilar,0109253,ralvesmi,ralve005,SE,Yes,No,GRAD,GRBU,1138
+Shekhar Bhansali,0109366,sbhansa,sbhan009,EIY,Yes,No,,
+Robert Burgman,0109505,rburgman,rburg021,EI,Yes,No,,
+Kevin Boswell,3908646,kmboswel,kbosw005,EI,Yes,No,,
+Zhongming Wang,0109640,zwang6,zwang028,EI,Yes,No,,
+Chunqiu Zeng,3912410,czeng,czeng001,SE,No,Yes,,
+Guido Ruiz,3912460,gruiz,gruiz044,SE,No,Yes,UGRD,UGEG,1158
+Yuying Zhang,0109676,yzhang13,yzhan054,EI,Yes,No,,
+Margaret Kieper,0110040,mkieper,mkiep001,SE,No,Yes,,
+Gabriel Garcia Barrera,3775580,ggarciab,ggarc171,SE,No,Yes,,
+Valeria Grisales,3943998,vgrisale,vgris003,SE,No,Yes,,
+Jorge Riera Diaz,0110377,jrieradi,jrier007,EI,Yes,No,,
+Henry Muniz Romero,3963657,,hmuni006,A,No,Yes,UGRD,UGEG,1141
+Luis Cabrera,3963826,luicabre,lcabr050,SFI,No,Yes,,
+Aparajita Singh,3993373,apsing,asing044,SFI,No,Yes,,
+Soheil Soleimanikutanaei,3993367,ssoleima,ssole016,SE,No,Yes,,
+Kely Cid Ravelo,3999565,,kcid001,A,No,Yes,UGRD,UGEG,1148
+Abhilash Cheeti,4000688,acheeti,achee003,AF,No,Yes,GRAD,GREG,1141
+Olena Tkachenko,3669227,otkachen,otkac001,SF,No,Yes,,
+Aurisabel Fereira,0110642,fereiraa,ferea001,F,Yes,No,,
+Anthony Ward,4012262,arward,award019,SE,No,Yes,GRAD,GRAS,1151
+Yongxian Pei,4011800,yopei,ypei002,SF,No,Yes,,
+Massiel Dos Santos,2923559,mdossant,mdoss007,SE,No,Yes,,
+Md Ahsan Sabbir,4016761,msabbir,msabb004,SE,No,Yes,,
+Muhammad Bakhte Talukdar,4025142,mtalukda,mtalu001,SEI,No,Yes,,
+Antonio Figueiredo,4025466,anfiguei,afigu075,SEI,No,Yes,,
+Srikanth Banda,4025890,sbanda,sband003,SE,No,Yes,,
+Jessica Bartley,4031611,jelbartl,jbart047,SE,No,Yes,,
+Ernesto Surribas ramirez,4011496,,esurr001,A,No,Yes,UGRD,UGEG,1141
+Venkadesh Sarkarai Nadar,4083300,vsarkara,vsark002,E,Yes,No,,
+Mingwei Yang,4138278,minyang,myang006,SEI,No,Yes,,
+Rajesh Jha,4138656,rjha,rjha001,SF,Yes,Yes,,
+Ayme Morrina Lobato,4138643,amorrina,amorr037,AF,No,Yes,UGRD,UGEG,1155
+Peter Reidy,3867251,preidy,preid009,AF,No,Yes,UGRD,UGEG,1158
+Shadi Darvish,4155968,sdarvish,sdarv003,SE,No,Yes,,
+Mohammad Asadikiya,4171715,masadiki,masad005,SE,No,Yes,,
+Peter Washam,2094000,pwasham,pwash005,AF,Yes,Yes,GRAD,GRAS,1145
+You Kyoung Jang,4212878,youjang,yjang003,F,Yes,No,,
+Antonija Tangar,4213047,atangar,atang006,SE,No,Yes,,
+Shervin Tashakori,4225422,stashako,stash002,SE,No,Yes,,
+Tanya Brown,2733133,tanybrow,tbrow102,SE,No,Yes,,
+Michael Abbott,1484761,mdabbott,mabbo009,AE,No,Yes,UGRD,UGEG,1148
+Anthony Bellantuono,4246983,ajbellan,abell077,AE,Yes,No,GRAD,GRAS,1138
+Robert Somerstein,2237623,,rsome003,A,No,Yes,UGRD,UGAS,1148
+Tan Li,4257405,tanli,tli009,EI,Yes,No,,
+Roy Lara,4267659,rlara,rlara018,SF,No,Yes,,
+Mauricio Rodriguez-Lanetty,4277832,rodmauri,rodma001,EI,Yes,No,,
+Alexander Mcquoid,4287660,amcquoid,amcqu003,F,Yes,No,,
+Adonis Hernandez,4544094,adonhern,ahern419,SE,Yes,No,,
+Patrick Alexander,4552461,pralexan,palex018,AE,Yes,No,,
+Carlos Ruiz,4556367,,cruiz084,A,No,Yes,UGRD,UGEG,1158
+Angela Laird,4592361,alaird,alair004,EI,Yes,No,,
+Francisco Alberto Fernandez Lima,4592456,fernandf,ffern075,EI,Yes,No,,
+Gretter Hernandez Romero,4636133,,ghern109,A,No,Yes,UGRD,UGAS,1155
+Sybille Baylard,4646212,sbaylard,sbayl001,E,Yes,No,,
+Marlon Rowe,4646082,,mrowe009,S,No,Yes,,
+Ismail Guvenc,4660633,iguvenc,iguve001,EI,Yes,No,,
+Matthew Sutherland,4660739,masuther,msuth005,EI,Yes,No,,
+Yukching Tse Dinh,4660738,ytsedinh,ytsed001,EI,Yes,No,,
+Heather Bracken-Grissom,4660745,hbracken,hbrac002,EI,Yes,No,,
+Olubunmi Popoola,4634082,olpopool,opopo002,SE,No,Yes,,
+Lucas Iglesias,4660884,,ligle011,S,No,Yes,,
+Kingsley Lau,4672748,kilau,klau004,EI,Yes,No,,
+Yuanchang Sun,4672885,yuasun,ysun016,EI,Yes,No,,
+Luis Miguel Fuentes Perez,4683083,,lfuen032,S,No,Yes,,
+Syed Pasha,4690029,spasha,spash001,SEI,No,Yes,,
+Mohammadtaghi Moravej,4690036,mmoravej,mmora229,SE,No,Yes,,
+Ayobami Bamgbade,4690238,abamgbad,abamg001,SE,No,Yes,,
+Thirunavukkarasu Annamalai,4702328,athiruna,athir003,E,Yes,No,,
+Jervon Wright,4157493,,jwrig059,S,No,Yes,,
+Lizette Mendoza,4213610,,lmend066,S,No,Yes,,
+Michael Riedel,4713047,miriedel,mried002,E,Yes,No,,
+Yongjian Guo,3022574,yguo,yguo018,SEI,Yes,Yes,UGRD,UGAS,1138
+Wilfredo Gomez,4741772,,wgome015,S,No,Yes,,
+Krissie Lobon,4026856,klobon,klobo005,SE,No,Yes,,
+Sameer Shaikh,4299680,sshaikh,sshai008,SF,No,Yes,,
+Laura Timm,4818471,ltimm,ltimm004,SEI,No,Yes,,
+Anibal Morales-Zambrana,4818884,animoral,amora197,SE,No,Yes,,
+Alberto Carrillo,4836928,,acarr131,A,No,Yes,UGRD,UGEG,1158
+Amin Baghalian,4837249,abaghali,abagh004,SEI,No,Yes,,
+Dane Marguglio,4837245,dmargugl,dmarg008,SE,No,Yes,,
+Rahat Chowdhury,2361204,,rchow010,S,No,Yes,,
+Jorge Perez Moreno,4845170,joperezm,jpere645,SE,No,Yes,,
+Juan Alarcon,1743476,,jalar014,S,No,No,,
+Bradley Klotz,4851324,,bklot003,S,No,Yes,,
+Yordan Alvarez,4857577,yordalva,yalva054,AF,No,Yes,UGRD,UGEG,1155
+Jorge Travieso,4857521,jtravies,jtrav029,AF,No,Yes,UGRD,UGEG,1151
+Nan Yao,4860825,nyao,nyao001,SE,No,Yes,,
+Alex Sanchez,3015185,,asanc305,S,No,Yes,,
+Bin Zhang,4887824,bzhang,zbin001,SFP,No,Yes,GRAD,GREG,1158
+Bekir Ciftler,4887733,bciftler,bcift001,SE,No,Yes,,
+Arachchigenadis Rupasinghe,4890115,rrupasin,rrupa001,SE,No,Yes,GRAD,GREG,1151
+Danni Cui,4890528,dacui,dcui002,SE,No,Yes,,
+Juan Molano Arevalo,4890956,jmolanoa,jmola004,SEI,No,Yes,,
+Pamela Garcia,4890648,,pgarc108,S,No,Yes,,
+Kendra Adams,4891859,kenadams,kadam034,SE,Yes,No,,
+globus-hpc,OTH0001639,globus-hpc,,1,Yes,No,,
+K Mangen,4891820,,kmang008,S,No,Yes,,
+Dillon Watring,2805604,dwatring,dwatr001,AER,No,Yes,UGRD,UGEG,1158
+Alyssa Garabedian,4902369,agarabed,agara016,SE,No,Yes,,
+Sohini Roychoudhury,4928389,sroychou,sroyc003,SE,No,Yes,,
+Isabel Thorson,4957787,ithorson,ithor003,SER,No,Yes,,
+Andrius Bubelis,4957928,,abube002,S,No,Yes,GRAD,GREG,1151
+Diana Hernandez,4962668,dirhern,dhern242,F,Yes,No,,
+Mengxing Cheng,4968004,mencheng,mchen045,E,Yes,No,,
+Curtis Cox,5001361,,ccox016,S,No,Yes,,
+Erica Musser,5001303,emusser,emuss002,EI,No,Yes,,
+Sean Borland,5006702,,sborl001,S,No,Yes,,
+Juan Ortiz,5007449,jfeortiz,jorti111,AF,No,Yes,,
+Maria Victoria Suarez Ulloa,5018361,msuarezu,msuar177,SEI,No,Yes,,
+hpctest,OTH0001766,hpctest,,1,Yes,No,,
+Patrick Roman,5029518,patroman,proma016,SE,No,Yes,,
+Edwin Alvarez Sosa,3578903,edalvare,ealva153,SE,No,Yes,,
+Jose Eirin Lopez,5048071,jeirinlo,jeiri004,EI,Yes,No,,
+Shaina Lear,5048453,slear,slear004,SF,No,Yes,,
+Miguel Villodas,5029821,mvilloda,mvill189,EI,No,No,,
+Raphael Raptis,5063503,rraptis,rrapt001,EI,Yes,No,,
+Alejandro Arrieta Herrera,5063665,alejarri,aarri022,EI,Yes,No,,
+Alan Nieto,5063826,,aniet009,S,No,Yes,,
+Juan Riveros Rueda,5115415,jriveros,jrive258,AF,No,Yes,GRAD,GREG,1151
+Yu Zhong,5115836,yzhong,,EI,Yes,No,,
+Jessica Liberles,5063466,jliberle,,EI,Yes,No,,
+Jessica Ramella Roman,5116593,jramella,,EI,Yes,No,,
+Robert Birch,1315239,rbirch,rbirc004,SF,No,Yes,,
+Rodolfo Viant Rodriguez,5038088,,rvian003,S,No,Yes,,
+Junho Jeon,5155353,jujeon,,F,Yes,No,,
+Humberto Chacon,5155429,hchacon,hchac003,SE,No,Yes,,
+Matthew Saunders,2403246,,msaun008,A,No,Yes,UGRD,UGEG,1155
+Danaris Pichardo Rey,2670814,dapichar,dpich004,SE,No,Yes,,
+Annyelka Rubio,2542750,,arubi067,S,No,Yes,,
+Victoriano Vega,5163346,,vvega019,S,No,Yes,,
+Anthony Abrahao,5159476,aabrahao,aabra037,SEI,Yes,No,,
+Hooman Sabarou,5456683,hsabarou,hsaba004,SE,No,Yes,,
+Zongyao Yang,5461176,zoyang,zyang018,SE,No,Yes,,
+James Kilfoil,5476625,jkilfoil,jkilf001,SEI,No,Yes,,
+Mohammad Rahman,5481519,mrahman,mrahm043,SEI,No,Yes,,
+Aparna Aravelli,1589255,aaravell,,EI,Yes,No,,
+Logesh Mathivathanan,5495729,lmathiva,,E,Yes,No,,
+Sharan Kodumuru,5569252,skodumur,skodu003,AF,No,Yes,GRAD,GREG,1158
+Jeremy Katz,5570386,jkatz,jkatz029,SER,No,Yes,,
+Nazanin Rezaei,5570936,nrezaei,nreza002,SE,No,Yes,,
+Ahmed Jalal,5572602,ajalal,ajala003,SE,No,Yes,,
+Joseph Ahrens,5576266,jahrens,jahre002,SE,Yes,No,,
+Dhrumel Shah,5577798,,dshah025,S,No,Yes,,
+Helena Gomes Dos Santos,5595336,hgomesdo,,E,Yes,No,,
+Jose Ponce Diaz,5455785,jponcedi,jponc021,SE,No,Yes,,
+Yi-Cheng Teng,5636248,yteng,,E,Yes,No,,
+Aaron Mattfeld,5645264,amattfel,,EI,Yes,No,,
+Fname3 Lname3,0999997,flname3,username333,SE,Yes,No,Registered Nurse Program I,03/03/2015
+Melanie Stollstorff,5656367,mstollst,,EI,Yes,No,,
+David Garber,5657944,dgarber,,EI,Yes,No,,
+Vanesa Aguiar Pulido,5662884,vaguiarp,,E,Yes,No,,
+Hernan Vazquez Miranda,5662902,hvazquez,,E,Yes,No,,
+Seung Jae Lee,5668535,sjlee,,EI,Yes,No,,
+Michael Farruggia,3092731,mfarrugg,mfarr022,SE,Yes,No,,
+Nikhil Sridharan Karthik,5669420,nkarthik,,E,Yes,No,,
+Cesar Cunha Pacheco,5671652,ccunhapa,,E,Yes,No,,
+Mahendra Madegowda,5673464,mmahendr,,F,Yes,No,,
+Jessica Flannery,3451797,jflanner,jflan008,SE,No,Yes,,
+Amanda Renfro,5726369,arenfro,arenf001,SE,No,Yes,,
+Brianna Pankey,5729326,bpankey,bpank001,SE,No,Yes,,
+Ranjita Poudel,5730341,rpoudel,rpoud001,SE,No,Yes,,
+Taylor Salo,5730397,tsalo,tsalo006,SE,No,Yes,,
+Katherine Bottenhorn,3398692,kbottenh,kbott006,SE,No,Yes,,
+Benjamin Sheler,5730550,bsheler,bshel009,SE,No,Yes,,
+Jason Hays,5730585,jahays,jhays006,SE,No,Yes,,
+Wenrui Huang,5734684,wehuang,whuan014,SF,No,Yes,,
+Timothy Allen,5754884,tallen,,EI,Yes,No,,
+Sumana Bhattacharya,5755907,sbhattac,sbhat014,SE,No,Yes,,
+Trevor Cickovski,5851685,tcickovs,,EI,Yes,No,,
+Eloina Cabrera,5872588,elcabrer,,E,Yes,No,,
+osg,OTH0003109,osg,,4,Yes,No,,
+Serkan Kaya,5899911,skaya,,F,Yes,No,,
+slurm,OTH0003119,slurm,,4,Yes,No,,
+Tobias Pfutze,5902204,tpfutze,,EI,Yes,No,,
+Bruna Loiola,5905528,bloiola,,E,Yes,No,,
+Alexander Beecham,5906606,,abeec004,S,No,Yes,,
+Ren Feng,5904763,rfeng,,E,Yes,No,,
+Tianyan Hu,5910874,tihu,,EI,Yes,No,,
+Bryce Tyner,5916544,btyner,,E,Yes,No,,
+mis,OTH0003404,mis,,1,Yes,No,,
+Artem Oleinikov,5927180,aoleinik,,F,Yes,No,,
+Aleksandr Semenikhin,5927545,asemenik,,F,Yes,No,,
